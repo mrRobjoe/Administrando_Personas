@@ -1,0 +1,16 @@
+D:\Backup\OneDrive\Documentos\Universidad\2023\2do_Cuatrimestre\Programacion4\Sesion2\Q2_2023\obj\Debug\Q2_2023.vbproj.AssemblyReference.cache
+D:\Backup\OneDrive\Documentos\Universidad\2023\2do_Cuatrimestre\Programacion4\Sesion2\Q2_2023\obj\Debug\Q2_2023.vbproj.SuggestedBindingRedirects.cache
+D:\Backup\OneDrive\Documentos\Universidad\2023\2do_Cuatrimestre\Programacion4\Sesion2\Q2_2023\obj\Debug\Q2_2023.FRM_Persona.resources
+D:\Backup\OneDrive\Documentos\Universidad\2023\2do_Cuatrimestre\Programacion4\Sesion2\Q2_2023\obj\Debug\Q2_2023.Resources.resources
+D:\Backup\OneDrive\Documentos\Universidad\2023\2do_Cuatrimestre\Programacion4\Sesion2\Q2_2023\obj\Debug\Q2_2023.vbproj.GenerateResource.cache
+D:\Backup\OneDrive\Documentos\Universidad\2023\2do_Cuatrimestre\Programacion4\Sesion2\Q2_2023\obj\Debug\Q2_2023.vbproj.CoreCompileInputs.cache
+D:\Backup\OneDrive\Documentos\Universidad\2023\2do_Cuatrimestre\Programacion4\Sesion2\Q2_2023\bin\Debug\Q2_2023.exe.config
+D:\Backup\OneDrive\Documentos\Universidad\2023\2do_Cuatrimestre\Programacion4\Sesion2\Q2_2023\bin\Debug\Q2_2023.exe
+D:\Backup\OneDrive\Documentos\Universidad\2023\2do_Cuatrimestre\Programacion4\Sesion2\Q2_2023\bin\Debug\Q2_2023.pdb
+D:\Backup\OneDrive\Documentos\Universidad\2023\2do_Cuatrimestre\Programacion4\Sesion2\Q2_2023\bin\Debug\Q2_2023.xml
+D:\Backup\OneDrive\Documentos\Universidad\2023\2do_Cuatrimestre\Programacion4\Sesion2\Q2_2023\bin\Debug\Guna.UI2.dll
+D:\Backup\OneDrive\Documentos\Universidad\2023\2do_Cuatrimestre\Programacion4\Sesion2\Q2_2023\obj\Debug\Q2_2023.vbproj.CopyComplete
+D:\Backup\OneDrive\Documentos\Universidad\2023\2do_Cuatrimestre\Programacion4\Sesion2\Q2_2023\obj\Debug\Q2_2023.exe
+D:\Backup\OneDrive\Documentos\Universidad\2023\2do_Cuatrimestre\Programacion4\Sesion2\Q2_2023\obj\Debug\Q2_2023.xml
+D:\Backup\OneDrive\Documentos\Universidad\2023\2do_Cuatrimestre\Programacion4\Sesion2\Q2_2023\obj\Debug\Q2_2023.pdb
+D:\Backup\OneDrive\Documentos\Universidad\2023\2do_Cuatrimestre\Programacion4\Sesion2\Q2_2023\obj\Debug\Q2_2023.FRM_Principal.resources
